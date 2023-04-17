@@ -1,0 +1,1 @@
+this was copied from https://github.com/fireclint/js-clock
